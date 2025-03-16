@@ -9,7 +9,7 @@ Add this repo in your `/etc/pacman.conf` by following the steps below:
 sudo vi /etc/pacman.conf
 ```
 
-2. Add following line
+2. Add following line to the bottom of `pacman.conf`
 
 ``` vim
 [dkc-pgroonga-archrepo]
